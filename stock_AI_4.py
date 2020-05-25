@@ -214,14 +214,3 @@ if __name__ == "__main__":
     main()
 
 # how seeds affect the output?
-
-# seed 7
-# Price Prediction :  [[3.9344532]]  with a margin error of  0.24133975325666712
-# Price Prediction :  [[3.9385693]]  with a margin error of  0.24214766371619326
-# Price Prediction :  [[3.9309788]]  with a margin error of  0.2429174684928821
-# Price Prediction :  [[3.9939084]]  with a margin error of  0.27556503525677245
-
-# seed 4
-# Price Prediction :  [[4.033992]]  with a margin error of  0.24355665681334196
-# Price Prediction :  [[4.0339932]]  with a margin error of  0.24355742727499233
-# Price Prediction :  [[4.033992]]  with a margin error of  0.24354532640030233
